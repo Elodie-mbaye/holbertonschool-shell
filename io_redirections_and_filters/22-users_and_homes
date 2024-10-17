@@ -1,0 +1,2 @@
+#!/bin/bash
+getent(1) /etc/passwd
